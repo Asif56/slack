@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slack/static/css/main.09ecbbb8.chunk.css",
+    "main.js": "/slack/static/js/main.0e603e8b.chunk.js",
+    "main.js.map": "/slack/static/js/main.0e603e8b.chunk.js.map",
+    "runtime-main.js": "/slack/static/js/runtime-main.e1d17986.js",
+    "runtime-main.js.map": "/slack/static/js/runtime-main.e1d17986.js.map",
+    "static/js/2.857d73cb.chunk.js": "/slack/static/js/2.857d73cb.chunk.js",
+    "static/js/2.857d73cb.chunk.js.map": "/slack/static/js/2.857d73cb.chunk.js.map",
+    "static/js/3.4d0a5423.chunk.js": "/slack/static/js/3.4d0a5423.chunk.js",
+    "static/js/3.4d0a5423.chunk.js.map": "/slack/static/js/3.4d0a5423.chunk.js.map",
+    "index.html": "/slack/index.html",
+    "static/css/main.09ecbbb8.chunk.css.map": "/slack/static/css/main.09ecbbb8.chunk.css.map",
+    "static/js/2.857d73cb.chunk.js.LICENSE.txt": "/slack/static/js/2.857d73cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1d17986.js",
+    "static/js/2.857d73cb.chunk.js",
+    "static/css/main.09ecbbb8.chunk.css",
+    "static/js/main.0e603e8b.chunk.js"
+  ]
+}
